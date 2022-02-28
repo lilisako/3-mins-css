@@ -95,7 +95,7 @@
             </div>
           </div>
         </div>
-        <div class="w-2/3">
+        <div class="w-1/3">
           <div class="p-4 mx-8 border">
             <div class="flex justify-between items-center">
               <div>
