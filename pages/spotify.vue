@@ -85,7 +85,7 @@
       </div>
     </div>
     <div class="p-4 w-full bg-black">
-      <div class="flex justify-between py-2 sticky top-0 bg-black">
+      <div class="flex sticky top-0 justify-between py-2 bg-black">
         <div class="flex items-center">
           <svg role="img" height="24" width="24" class="mx-4 text-white fill-current" viewBox="0 0 24 24"><path d="M15.957 2.793a1 1 0 010 1.414L8.164 12l7.793 7.793a1 1 0 11-1.414 1.414L5.336 12l9.207-9.207a1 1 0 011.414 0z" /></svg>
           <svg role="img" height="24" width="24" class="mx-4 text-white fill-current" viewBox="0 0 24 24"><path d="M8.043 2.793a1 1 0 000 1.414L15.836 12l-7.793 7.793a1 1 0 101.414 1.414L18.664 12 9.457 2.793a1 1 0 00-1.414 0z" /></svg>
