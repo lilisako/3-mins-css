@@ -1,6 +1,7 @@
 const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
+  mode: 'jit',
   theme: {
     fontFamily: {
       google: ['Neonderthaw']
@@ -8,7 +9,8 @@ module.exports = {
     extend: {
       colors: {
         'spotify-green': '#1DB954',
-        'apple-black': '#333333'
+        'apple-black': '#333333',
+        'amazon-orange': '#FF9900'
       }
     }
   }
