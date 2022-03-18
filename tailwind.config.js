@@ -7,6 +7,9 @@ module.exports = {
       google: ['Neonderthaw']
     },
     extend: {
+      fontFamily: {
+        pressstart: ["'Press Start 2P', sans-serif"]
+      },
       colors: {
         'spotify-green': '#1DB954',
         'apple-black': '#333333',
