@@ -42,7 +42,8 @@ export default {
 
   googleFonts: {
     families: {
-      Neonderthaw: true
+      Neonderthaw: true,
+      'EB Garamond': true
     }
   },
 

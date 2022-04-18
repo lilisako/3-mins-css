@@ -9,7 +9,7 @@
           WORLD AIRLINE
         </p>
         <div class="grid grid-cols-3 gap-4">
-          <img src="~/static/plane.png" class="col-span-2">
+          <!-- <img src="~/static/plane.png" class="col-span-2"> -->
           <img width="200" src="https://user-images.githubusercontent.com/33516104/158962855-9898195a-c4e2-4981-bd95-5419f95ab9d7.png">
         </div>
         <div class="mx-6">
