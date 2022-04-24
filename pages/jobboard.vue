@@ -1,6 +1,6 @@
 <template>
   <div class="flex items-center w-screen h-screen bg-gray-200 ">
-    <div class="flex p-6 mx-auto bg-white rounded-xl drop-shadow">
+    <div class="flex p-6 mx-auto bg-white rounded-xl drop-shadow border-4  border-black">
       <div>
         <img src="~/static/jobboard/google.png" width="80" class="rounded-xl border-[4px] border-black">
         <img src="~/static/jobboard/Bookmark.png" width="30" class="my-4">
