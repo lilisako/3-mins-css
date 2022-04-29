@@ -43,7 +43,8 @@ export default {
   googleFonts: {
     families: {
       Neonderthaw: true,
-      'EB Garamond': true
+      'EB Garamond': true,
+      'Fredoka One': true
     }
   },
 
