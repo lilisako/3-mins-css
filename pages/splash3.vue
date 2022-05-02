@@ -9,7 +9,7 @@
         <img src="~/static/splash/image2.png" class="absolute bottom-[30px]">
         <div class="flex absolute top-[110px] justify-center items-center w-full">
           <p class="text-3xl font-bold text-center">
-            Join the <br>conversation
+            Join the <br>community
           </p>
         </div>
       </div>

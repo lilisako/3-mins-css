@@ -9,7 +9,7 @@
         <img src="~/static/splash/image1.png" class="absolute bottom-[100px]">
         <div class="flex absolute top-[90px] justify-center items-center w-full">
           <p class="text-3xl font-bold text-center">
-            Follow <br>your interests
+            Follow your <br>favorite people
           </p>
         </div>
       </div>

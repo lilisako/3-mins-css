@@ -9,7 +9,7 @@
         <img src="~/static/splash/image3.png" class="absolute bottom-[40px]">
         <div class="flex absolute top-[90px] justify-center items-center w-full">
           <p class="text-3xl font-bold text-center">
-            Hear what <br>people are <br>talking about
+            Hear the<br>latest news <br>right now
           </p>
         </div>
       </div>
