@@ -7,7 +7,8 @@ module.exports = {
       google: ['Neonderthaw'],
       garamond: ['EB Garamond'],
       fredoka: ['Fredoka One'],
-      vt323: ['VT323']
+      vt323: ['VT323'],
+      inria: ['Inria Sans']
     },
     extend: {
       fontFamily: {

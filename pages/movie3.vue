@@ -4,11 +4,11 @@
       <div class="flex items-center">
         <img src="~/static/movie/icon2.png" width="30">
       </div>
-      <div class="relative my-3 w-full h-full bg-[#CEC1FF]">
-        <div class="absolute right-0 w-12 h-full bg-[#362995]" />
+      <div class="relative my-3 w-full h-full bg-[#FFC2C2]">
+        <div class="absolute right-0 w-12 h-full bg-[#D9243A]" />
         <img src="~/static/movie/icon.png" class="absolute right-7">
         <div class="absolute top-12 left-2 z-10">
-          <img src="~/static/movie/movie1.png" width="250">
+          <img src="~/static/movie/movie3.png" width="250">
           <div class="flex pt-4">
             <div class="ml-3">
               <p class="text-sm">
@@ -31,7 +31,7 @@
                 Ticket Type
               </p>
               <p class="text-2xl font-bold">
-                Adult
+                Student
               </p>
             </div>
           </div>
@@ -41,7 +41,7 @@
                 Date
               </p>
               <p class="text-2xl font-bold">
-                2018/12/2
+                2022/5/5
               </p>
             </div>
             <div class="ml-3">

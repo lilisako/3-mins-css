@@ -45,7 +45,8 @@ export default {
       Neonderthaw: true,
       'EB Garamond': true,
       'Fredoka One': true,
-      VT323: true
+      VT323: true,
+      'Inria Sans': true
     }
   },
 
