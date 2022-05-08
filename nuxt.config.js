@@ -44,7 +44,8 @@ export default {
     families: {
       Neonderthaw: true,
       'EB Garamond': true,
-      'Fredoka One': true
+      'Fredoka One': true,
+      VT323: true
     }
   },
 
