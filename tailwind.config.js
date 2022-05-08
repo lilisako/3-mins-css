@@ -8,7 +8,8 @@ module.exports = {
       garamond: ['EB Garamond'],
       fredoka: ['Fredoka One'],
       vt323: ['VT323'],
-      inria: ['Inria Sans']
+      inria: ['Inria Sans'],
+      kanit: ['Kanit']
     },
     extend: {
       fontFamily: {

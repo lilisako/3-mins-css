@@ -46,7 +46,8 @@ export default {
       'EB Garamond': true,
       'Fredoka One': true,
       VT323: true,
-      'Inria Sans': true
+      'Inria Sans': true,
+      Kanit: true
     }
   },
 
