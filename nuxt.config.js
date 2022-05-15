@@ -47,7 +47,9 @@ export default {
       'Fredoka One': true,
       VT323: true,
       'Inria Sans': true,
-      Kanit: true
+      Kanit: true,
+      'Do Hyeon': true,
+      'DM Sans': true
     }
   },
 

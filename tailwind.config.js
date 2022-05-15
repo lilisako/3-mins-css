@@ -9,7 +9,9 @@ module.exports = {
       fredoka: ['Fredoka One'],
       vt323: ['VT323'],
       inria: ['Inria Sans'],
-      kanit: ['Kanit']
+      kanit: ['Kanit'],
+      dohyeon: ['Do Hyeon'],
+      dmsans: ['DM Sans']
     },
     extend: {
       fontFamily: {
