@@ -7,8 +7,8 @@
         </p>
         <div class="flex justify-center items-center">
           <div class="flex relative justify-center items-center w-[270px] h-[270px] rounded-full border border-black">
-            <img src="~/static/music-player-2/aespa.jpeg" class="absolute -z-10 w-[250px] h-[250px] rounded-full">
-            <div class="flex absolute z-10 justify-center items-center w-[60px] h-[60px] bg-white rounded-full">
+            <img src="~/static/music-player-2/aespa.jpeg" class="absolute z-10 w-[250px] h-[250px] rounded-full">
+            <div class="flex absolute z-20 justify-center items-center w-[60px] h-[60px] bg-white rounded-full">
               <div class="flex justify-center items-center w-[45px] h-[45px] bg-white rounded-full border border-black" />
             </div>
           </div>

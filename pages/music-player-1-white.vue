@@ -6,8 +6,8 @@
           <div class="flex items-center my-4 ml-4">
             <div class="flex justify-center items-center">
               <div class="flex relative justify-center items-center w-[120px] h-[120px] rounded-full border-2 border-black">
-                <img src="~/static/music-player-1/nct.png" class="absolute -z-10 w-[110px] h-[110px] rounded-full">
-                <div class="flex absolute z-10 justify-center items-center w-[30px] h-[30px] bg-white rounded-full">
+                <img src="~/static/music-player-1/nct.png" class="absolute z-10 w-[110px] h-[110px] rounded-full">
+                <div class="flex absolute z-20 justify-center items-center w-[30px] h-[30px] bg-white rounded-full">
                   <div class="flex justify-center items-center w-[20px] h-[20px] bg-white rounded-full border-2 border-black" />
                 </div>
               </div>
