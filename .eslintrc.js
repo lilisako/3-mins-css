@@ -17,6 +17,7 @@ module.exports = {
   ],
   // add your custom rules here
   rules: {
-    'tailwindcss/enforces-shorthand': 'off'
+    'tailwindcss/enforces-shorthand': 'off',
+    'tailwindcss/no-contradicting-classname': 'off'
   }
 }

@@ -9,7 +9,7 @@
           WORLD AIRLINE
         </p>
         <div class="flex items-end">
-          <img src="~/static/boarding-pass/plane.png" width="180">
+          <img src="~/static/boarding-pass/delivery.png" width="150">
           <img src="~/static/boarding-pass/qrcode.png" width="100">
         </div>
         <div class="my-4">
